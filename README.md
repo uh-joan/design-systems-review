@@ -1,4 +1,5 @@
-![cover](/cover.png)
+## Design Systems
+A curated list of design systems, pattern libraries, and everything in between
 
 > A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
 
